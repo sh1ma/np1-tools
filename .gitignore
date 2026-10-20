@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pyc
+*.log
+session.json
+*.sock
+np1-wifi-cmd.txt
